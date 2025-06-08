@@ -4,7 +4,7 @@
 <img align = "right" alt = "banner" width = "400" src = "https://giffiles.alphacoders.com/222/222865.gif">
 
 
-<p align="left"> <a href="https://twitter.com/shashwat_on_x" target="blank"><img src="https://img.shields.io/twitter/follow/tallstwae?logo=twitter&style=for-the-badge" alt="Shashwat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shashwat_on_x" target="blank"><img src="https://img.shields.io/twitter/follow/Shashwat?logo=twitter&style=for-the-badge" alt="Shashwat" /></a> </p>
 
 
 - 🌱 I’m currently learning **Flutter**
