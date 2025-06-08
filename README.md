@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/tallstwae" target="blank"><img src="https://img.shields.io/twitter/follow/tallstwae?logo=twitter&style=for-the-badge" alt="tallstwae" /></a> </p>
 
-- 🔭 I’m currently working on **Finddit**
 
-- 🌱 I’m currently learning **CSS , JavaScript , React , Typescript , Next.js , Flutter**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **HTML , CSS**
 
 - 📫 How to reach me: **shashwat1043@gmail.com**
 
-- ⚡ Fun fact: **I read philosophy**
+- ⚡ Fun fact: **I read philosophy and paint**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
