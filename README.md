@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Shashwat</h1>
-<h3 align="center">A passionate developer from Bengaluru, India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align = "right" alt = "banner" width = "400" src = "https://giffiles.alphacoders.com/222/222865.gif">
 
