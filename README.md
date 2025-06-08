@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **shashwat1043@gmail.com**
 
-- ⚡ Hobbies: **Reading Philosophy /n Painting /n Designing**
+- ⚡ Hobbies: **Reading Philosophy | Painting | Designing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
